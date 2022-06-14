@@ -58,3 +58,6 @@ function imagen(){
 function fecha() {
 document.getElementById("demo").innerHTML = Date();
 }
+<a class = "(secciones)" href="file:///C:/Users/jasir/OneDrive/Documentos/Sena/3er%20Trimestre/ADSI/JAVA/CapDatos/capturarDatos.html"><button> AVATAR </button></a></a>
+    <a class = "(secciones)" href="file:///C:/Users/jasir/OneDrive/Documentos/Sena/3er%20Trimestre/ADSI/JAVA/Figuras_3/figuras/index.html"><button> FIGURAS GEOMETRICAS </button></a></a>
+
